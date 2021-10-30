@@ -12,7 +12,7 @@
 
 <div align="justify">
   
-  Este tutorial apresenta os principais conceitos que você precisa saber para começar a usar o [SQLite](https://www.sqlite.org/index.html) de forma fácil e eficaz.  
+  Este tutorial apresenta os principais conceitos que você precisa saber para começar a usar o [SQLite](https://sqlitestudio.pl/) de forma fácil e eficaz.  
   
 </div>
 
@@ -24,8 +24,8 @@
 
 **Software necessário** 
 
-Instalar a versão mais recente do [SQLite](https://www.sqlite.org/index.html)
-- [Link para o download](https://www.sqlite.org/download.html)
+Instalar a versão mais recente do [SQLite](https://sqlitestudio.pl/)
+- [Link para o download](https://sqlitestudio.pl/)
 
 ---
 
